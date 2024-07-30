@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_SINGLE USER NOT FOUND</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84e38600-5a81-442b-8a47-a3e9e1852a35</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_SINGLE (RESOURCE) NOT FOUND</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8154d553-3778-450b-a3f1-04d94060676d</testCaseGuid>
+</TestCaseEntity>
